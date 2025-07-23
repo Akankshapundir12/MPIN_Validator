@@ -102,7 +102,6 @@ The validator uses a comprehensive approach to check MPIN strength:
 ### Error Handling
 ![Error Handling](https://github.com/user-attachments/assets/9e21792a-1415-4c5e-ae48-4f4a3e0ed0d5)
 
-For more test screenshots: [View Test Screenshots](https://drive.google.com/drive/folders/1nnwHJbay0X29dB3Xo-cJy8jD7ScrV3Xx?usp=sharing)
 
 ## Research Links
 1. [DataGenetics PIN Analysis](http://www.datagenetics.com/blog/september32012/index.html)
